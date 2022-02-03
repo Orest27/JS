@@ -48,7 +48,6 @@ let middleName = 'Voitovich';
 let lastName = 'Romanovuch';
 console.log(firstName, middleName, lastName)
 
-
  let firstNameUser = prompt('Як тебе звати?')
  let middleNameUser = prompt('Яке твоє прізвище?')
  let ageUser = prompt('Який твій вік?')
@@ -76,7 +75,7 @@ let a = 5;
 document.write(str + a + "<br/>");
 document.write(str - a + "<br/>");
 document.write(str * "2" + "<br/>");
-document.write(str / 2 + "<br/>")
+document.write(str / 2 + "<br/>") // 6 завдання
 
 
 
